@@ -1,6 +1,7 @@
 package bcc.battleship;
 
 public final class Constants {
+    public static final int GRID_SIZE = 10;
     public final static int UNSET = -1;
     public final static int HORIZONTAL = 0;
     public final static int VERTICAL = 1;
